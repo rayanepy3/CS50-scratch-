@@ -6,3 +6,4 @@ Your project must have at least three scripts total (i.e., not necessarily three
 Your project must use at least one conditional, at least one loop, and at least one variable.
 Your project must use at least one custom block that you have made yourself (via Make a Block), which must take at least one input.
 Your project should be more complex than most of those demonstrated in lecture
+![Language](https://img.shields.io/badge/Language-Scratch-orange)
